@@ -1,0 +1,46 @@
+{
+  "content": [
+    {
+      "title": "Important Information",
+      "subtitle": "Know more on the guidelines, strategies and templates for the vaccine drive.",
+      "date": "16 MARCH 2021"
+    }
+  ],
+  "items": [
+    {
+      "title": "Tika Utsav CAB IEC material",
+      "document_url": "https://www.mohfw.gov.in/covid_vaccination/vaccination/dist/downloads/tika-utsav-cab-iec-material.pdf",
+      "category": "IEC Material",
+      "category_class": "template",
+      "date": "12 April 2021"
+    },
+    {
+      "title": "Certificate to identify individuals with co-morbidities that enhance the risk of mortality in COVID-19 disease for priority vaccination",
+      "document_url": "https://www.mohfw.gov.in/covid_vaccination/vaccination/dist/downloads/certificate-to-identify-individuals-with-co-morbidities-that-enhance-the-risk-of-mortality-in-covid-19-disease-for-priority-vaccination.pdf",
+      "category": "Template",
+      "category_class": "template",
+      "date": "1 March 2021"
+    },
+    {
+      "title": "User Manual for Citizen Registration and Appointment for Vaccination",
+      "document_url": "https://www.mohfw.gov.in/pdf/UserManualCitizenRegistration&AppointmentforVaccination.pdf",
+      "category": "User Manual",
+      "category_class": "user-manual",
+      "date": "1 March 2021"
+    },
+    {
+      "title": "COVID-19 Vaccine Communication Strategy",
+      "document_url": "https://www.mohfw.gov.in/covid_vaccination/vaccination/dist/images/documents/Covid19CommunicationStrategy2020.pdf",
+      "category": "Strategy",
+      "category_class": "strategy",
+      "date": "28 December 2020"
+    },
+    {
+      "title": "COVID-19 Vaccine Operational Guidelines",
+      "document_url": "https://www.mohfw.gov.in/covid_vaccination/vaccination/dist/images/documents/COVID19VaccineOG111Chapter16.pdf",
+      "category": "Guidelines",
+      "category_class": "guidelines",
+      "date": "28 December 2020"
+    }
+  ]
+}
